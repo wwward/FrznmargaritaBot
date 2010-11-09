@@ -1,0 +1,17 @@
+README - FrznmargaritaBot
+
+Originally by Ken Gilmer of Bug Labs
+Relies on pircbot library
+
+This app is for the BugLabs Bug 1 running v1.4.x of the Bug distribution
+
+It provides an IRC bot that will respond to inquiries for motion sensor
+activity and temperature via an analog to digital converter on the
+Motion and VonHippel modules.
+
+This is very much a rough work in progress.
+
+This file was edited using Eclipse Galileo with the Bug Labs Dragonfly SDK 1.6.x plugin
+
+wwward@pobox.com
+Nov 9, 2010.
