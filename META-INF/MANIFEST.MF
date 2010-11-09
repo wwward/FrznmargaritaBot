@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Bug-Bundle-Type: Application
+Bundle-Vendor: kgilmer, wwward
+Bundle-Classpath: .,libs/pircbot.jar
+Bundle-Version: 1.1.0
+Bundle-Name: FrznmargaritaBot
+Bundle-Activator: frznmargaritaBot.Activator
+Import-Package: com.buglabs.application,
+ com.buglabs.bug.base.pub,
+ com.buglabs.bug.module.motion.pub,
+ com.buglabs.bug.module.vonhippel.pub,
+ com.buglabs.util,
+ org.osgi.framework,
+ org.osgi.service.log,
+ org.osgi.util.tracker
+Bundle-SymbolicName: FrznmargaritaBot
+
